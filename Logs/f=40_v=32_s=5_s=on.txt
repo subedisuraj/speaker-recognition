@@ -1,0 +1,172 @@
+/usr/bin/python2.7 /home/pravesh/workspace2/mi/test.py
+Training ./data/train/s1.wav as ID s1
+Training ./data/train/s8.wav as ID s8
+Training ./data/train/s4.wav as ID s4
+Training ./data/train/s6.wav as ID s6
+Training ./data/train/s7.wav as ID s7
+Training ./data/train/merofile.wav as ID merofile
+INFO: Input signal has more than 1 channel; the channels will be averaged.
+Training ./data/train/s2.wav as ID s2
+Training ./data/train/s5.wav as ID s5
+Training ./data/train/s3.wav as ID s3
+Log-likelihoods have plateaued--terminating training
+Total training time: 1 secs Best epoch:  N/A
+Log-likelihoods have plateaued--terminating training
+Total training time: 4 secs Best epoch:  N/A
+Log-likelihoods have plateaued--terminating training
+Total training time: 0 secs Best epoch:  N/A
+Log-likelihoods have plateaued--terminating training
+Total training time: 0 secs Best epoch:  N/A
+Total training time: 0 secs Best epoch:  N/A
+Total training time: 0 secs Best epoch:  N/A
+Total training time: 0 secs Best epoch:  N/A
+Total training time: 0 secs Best epoch:  N/A
+Total training time: 0 secs Best epoch:  N/A
+
+
+
+Testing pravesh
+INFO: Input signal has more than 1 channel; the channels will be averaged.
+merofile
+
+Log likelihoods
+merofile             has -10735.677487
+s7                   has -58304.833047
+s6                   has -60960.261330
+s8                   has -61291.780851
+s4                   has -61661.757760
+s1                   has -61790.991672
+s3                   has -62875.964782
+s2                   has -63559.406375
+s5                   has -129874.163003
+
+
+
+Testing s1
+s7
+
+Log likelihoods
+s7                   has -2799.906429
+s1                   has -3852.211472
+merofile             has -4960.936410
+s2                   has -5534.059580
+s3                   has -5721.566565
+s6                   has -5761.008267
+s8                   has -6218.075629
+s4                   has -6218.268084
+s5                   has -26249.470060
+
+
+
+Testing s8
+s8
+
+Log likelihoods
+s8                   has -2769.308417
+s6                   has -2868.144558
+s4                   has -4146.148340
+s2                   has -4146.496195
+s3                   has -4146.935632
+s7                   has -4148.757204
+s1                   has -4176.893954
+merofile             has -4269.416078
+s5                   has -30394.123228
+
+
+
+Testing s4
+s7
+
+Log likelihoods
+s7                   has -4166.849375
+s8                   has -4845.552094
+s1                   has -4888.736287
+merofile             has -4973.070866
+s3                   has -5533.648886
+s4                   has -5541.168601
+s6                   has -6456.574224
+s2                   has -6909.776528
+s5                   has -33157.225339
+
+
+
+Testing s6
+s6
+
+Log likelihoods
+s6                   has -3844.548612
+s7                   has -8437.483054
+s8                   has -9684.151492
+s1                   has -9710.612487
+s3                   has -10634.706910
+s4                   has -12435.531888
+s2                   has -12435.833060
+merofile             has -12553.608153
+s5                   has -34542.728272
+
+
+
+Testing s7
+merofile
+
+Log likelihoods
+merofile             has -2898.084665
+s7                   has -3462.232191
+s3                   has -3462.790751
+s1                   has -3494.971127
+s4                   has -3540.946852
+s6                   has -3694.633821
+s8                   has -4145.984666
+s2                   has -4146.519161
+s5                   has -30394.123228
+
+
+
+Testing s2
+s2
+
+Log likelihoods
+s2                   has -5539.637497
+s7                   has -8315.812669
+merofile             has -8418.425523
+s3                   has -8989.835240
+s8                   has -11053.513837
+s4                   has -11053.662557
+s1                   has -11073.845915
+s6                   has -11143.250043
+s5                   has -29703.347700
+
+
+
+Testing s5
+s5
+
+Log likelihoods
+s5                   has -4852.320989
+s6                   has -8299.669494
+s7                   has -8413.975860
+s8                   has -31781.473612
+merofile             has -32475.956531
+s1                   has -33157.522485
+s4                   has -33157.650092
+s2                   has -33157.694578
+s3                   has -33157.850454
+
+
+
+Testing s3
+s3
+
+Log likelihoods
+s3                   has -4995.764484
+s7                   has -8321.396522
+s8                   has -13135.148686
+s6                   has -13916.298141
+s2                   has -14511.964311
+s1                   has -14540.077991
+merofile             has -14633.201284
+s4                   has -15198.641173
+s5                   has -40064.980618
+
+Process finished with exit code 0
+
